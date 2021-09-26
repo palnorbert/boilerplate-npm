@@ -2,7 +2,8 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Norbert Palfi",
 	"dependencies": {
-		"express": "^4.14.0"
+		"package-name": "moment",
+		"express": "2.14.0"
 	},
 	"main": "server.js",
 	"scripts": {

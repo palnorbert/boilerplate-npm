@@ -3,7 +3,7 @@
 	"author": "Norbert Palfi",
 	"dependencies": {
 		"package-name": "moment",
-		"express": "2.14.0"
+		"moment": "2.14.0"
 	},
 	"main": "server.js",
 	"scripts": {

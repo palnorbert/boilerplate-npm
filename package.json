@@ -5,9 +5,9 @@
 	"license":"MIT for example",
 	"keywords": ["freecodecamp", "decriptive"],
 	"version": "1.0.2",
-	"dependencies":{
-  "package-name": "version",
-},
+	"dependencies": {
+   	 "express": "^4.16.4",
+ 	 },
 	"main": "server.js",
 	"scripts": {
 		"start": "node server.js"

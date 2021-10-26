@@ -6,7 +6,7 @@
 	"keywords": ["freecodecamp", "decriptive"],
 	"version": "1.0.2",
 	"dependencies": {
-		"moment":"~2.10.2",
+		"moment":"^2.10.2",
 		"package-name": "moment",
 		"express":"2.10.2"
 	},

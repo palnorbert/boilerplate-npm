@@ -5,6 +5,7 @@
 	"license":"MIT for example",
 	"keywords": ["freecodecamp", "decriptive"],
 	"version": "1.0.2",
+	"dependencies":,
 	"main": "server.js",
 	"scripts": {
 		"start": "node server.js"
